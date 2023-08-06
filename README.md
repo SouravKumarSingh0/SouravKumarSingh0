@@ -1,17 +1,19 @@
 <h1 align="center">Hi 👋, I'm Sourav Kumar Singh,Good to have you here!!</h1>
 <h3 align="center">Web Development and Cloud Technology made me fall in love with coding and building exciting products! I have a soft spot for technology and communities ❤️</h3>
 
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=souravkumarsingh0&label=Profile%20views&color=0e75b6&style=flat" alt="souravkumarsingh0" /> </p>
 
 - 🌱 I’m currently learning **ReactJs & Cloud Devops**
 
-- 👯 I’m looking to collaborate on **interesting projects**
+- 👯 I’m looking to collaborate on interesting projects.
+
+- 👨‍💻 All of my projects are available [here](https://github.com/SouravKumarSingh0)
 
 - 📄 Checkout my resume from [here](https://drive.google.com/file/d/1A-09F3k8DosdkqXo2VuoQQcqqqBBYgYp/view?usp=sharing)
 
-- 👨‍💻 All of my projects are available at [https://github.com/SouravKumarSingh0](https://github.com/SouravKumarSingh0)
-
-- 📫 How to reach me **souravkumarsingh.sstc@gmail.com**
+- 📫 Best way to reach me  is through **souravkumarsingh.sstc@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
