@@ -9,9 +9,9 @@
 
 - 👯 I’m looking to collaborate on interesting projects.
 
-- 👨‍💻 All of my projects are available [here](https://github.com/SouravKumarSingh0)
+- 👨‍💻 All of my projects are available [here](https://souravkumarsingh0.github.io/Portfolio_R/)
 
-- 📄 Checkout my resume from [here](https://drive.google.com/file/d/1erVTU98Rowox7z89RwjbQ1MUTHwVfZVu/view?usp=sharing)
+- 📄 Checkout my resume from [here](https://drive.google.com/file/d/1ATQfFlgn3pdqmM_u90VERmiXMDVrRoKR/view?usp=sharing)
 
 - 📫 Best way to reach me  is through **souravkumarsingh.sstc@gmail.com**
 
